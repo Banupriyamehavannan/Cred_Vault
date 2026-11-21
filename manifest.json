@@ -1,0 +1,15 @@
+{
+  "short_name": "CredVault",
+  "name": "CredVault Certificate Platform",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "1536x1024",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#102b49",
+  "background_color": "#ffffff"
+}
